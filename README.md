@@ -1,0 +1,1 @@
+Este projeto aborda o problema clássico de detecção de fraudes em cartões de crédito utilizando o conhecido dataset com transações reais de titulares europeus. O objetivo principal é identificar transações fraudulentas minimizando os falsos negativos (fraudes não detectadas).
